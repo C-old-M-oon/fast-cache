@@ -1,0 +1,2 @@
+³õÊ¼»¯Ä¿Â¼£ºgitbook init
+±àÒë£ºgitbook build

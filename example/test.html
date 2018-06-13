@@ -7,5 +7,12 @@
 <body>
   <p>测试页面</p>
   <script type="text/javascript" src="../release/bundle.js"></script>
+
+  <script type="text/javascript">
+    var FC = window.FastCache
+    var cache = new FC()
+    cache.set('a', 100)
+    alert(cache.get('a'))
+  </script>
 </body>
 </html>

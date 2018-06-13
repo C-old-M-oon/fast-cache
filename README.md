@@ -13,7 +13,7 @@
 - 二次开发文档
 
 ## 交流提问
-在本页面提交issue：[https://github.com/C-old-M-oon/fast-cache/issues]
+在本页面提交issue：https://github.com/C-old-M-oon/fast-cache/issues
 
 ## 关于作者
 - 个人主页
